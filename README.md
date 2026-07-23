@@ -7,7 +7,7 @@ writer drafts from them, and a critic checks every claim in the draft actually
 traces back to the research brief before approving it. Watch the handoff live, not
 just a final answer.
 
-**[Try it live](#)** · Next.js · TypeScript · Groq
+**[Try it live](https://agent-pipeline-nu.vercel.app)** · Next.js · TypeScript · Groq
 
 ---
 

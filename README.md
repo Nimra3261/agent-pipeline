@@ -1,5 +1,7 @@
 # Multi-Agent Pipeline
 
+[![CI](https://github.com/Nimra3261/agent-pipeline/actions/workflows/ci.yml/badge.svg)](https://github.com/Nimra3261/agent-pipeline/actions/workflows/ci.yml)
+
 Three specialized agents hand off work in sequence — a researcher gathers claims, a
 writer drafts from them, and a critic checks every claim in the draft actually
 traces back to the research brief before approving it. Watch the handoff live, not
